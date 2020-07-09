@@ -1,0 +1,28 @@
+/* 
+    Created on : 03 jul 2020
+    Author     : Franck J.
+*/
+.min-picture {
+    vertical-align: middle;
+    width: 100px;
+    height: 100px;
+}
+
+.quantity-modifier {
+    font-size: 1.5rem;
+}
+
+.quantity-modifier span {
+    font-size: 2rem;
+}
+
+.quantity-modifier a {
+    color: #444;
+}
+
+.quantity-up:hover {
+    color: #07d43a;
+}
+.quantity-down:hover {
+    color: #FF4136;
+}
